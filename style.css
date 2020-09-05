@@ -1,0 +1,35 @@
+body{
+    background-color: #F3F4F5;
+}
+h1{
+    font-size: 5em;
+    text-align:center;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin:auto;
+}
+#timeline{
+    background:white;
+}
+#quote{
+    text-align: center;
+    font-size: 1.7em;
+}
+h2{
+    font-size: 3em;
+    padding-top:20px;
+    padding-left: 425.5px;
+}
+#timeline{
+    width: 60%;
+    margin:0 auto;
+    font-size: 2em;
+    background: #E3E5E7;
+    color:black;
+}
+hr{
+    width:50%;
+    margin:auto;
+}
